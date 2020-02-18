@@ -1,0 +1,10 @@
+/* reset css */
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width:680px) {
+/* les modifications à apporter quand la taille de l’écran a une taille max de 680px */
+}
